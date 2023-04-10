@@ -1,0 +1,13 @@
+Name: NetLogic
+Type: FolderType
+Children:
+- Name: WMIScanLogic
+  Id: g=250ee8b9846d0561fc3dfa1712890b81
+  Type: NetLogic
+  Children:
+  - Class: Method
+    Name: Windows_General_Init
+  - Class: Method
+    Name: Temperature_Init
+  - Class: Method
+    Name: Alternative

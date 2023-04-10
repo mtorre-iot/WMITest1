@@ -1,0 +1,23 @@
+Name: WMI
+Type: FolderType
+Children:
+- Name: Temperature
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Bus Speed
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Load
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Power
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Used Memory
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
